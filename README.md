@@ -24,9 +24,11 @@ This repository contains a junior-analyst investigation using **fictional, synth
 All times are shown with the original timestamp and zone where known and normalized to West Africa Time (WAT, UTC+1). Packet evidence is interpreted only to the extent supported by the supplied records. No live destinations were visited, and no attachment or payload was executed.
 
 ### Screenshots
+<img width="1919" height="1029" alt="ip-address" src="https://github.com/user-attachments/assets/811e3e9c-fe63-454e-90ea-c6bdabdd667c" />
+<img width="1919" height="1031" alt="dns" src="https://github.com/user-attachments/assets/c72c2adf-d6b2-448e-9674-c0154f170afe" />
+<img width="1919" height="1029" alt="http-request-frame8" src="https://github.com/user-attachments/assets/1b39719f-df2b-41ec-87c7-d9ae751f4e2b" />
+
 The original working notes specify three Wireshark screenshots:
 1. `ip.addr == 10.20.0.24`
 2. `dns` showing frames 3 and 4
 3. `http.request` showing frame 8
-
-Those image files were not available to this publishing step, so no screenshots are represented as attached. Add the genuine screenshots under `figures/` if you want them included; use the matching captions in Section 4 of the report.
